@@ -10,9 +10,6 @@ Get the following information of the place you search:<br>
 ✔ Humidity Levels 💧<br>
 ✔ Precipitation Data ☔<br>
 
-## Preview
-
-![Demonstration](./src/assets/demo.gif)
 ### How to Use
 1️⃣ Enter any city or location.<br>
 2️⃣ Get instant weather updates.<br>
