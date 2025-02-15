@@ -1,0 +1,19 @@
+.Footer {
+    background-color: #ffffff;
+    font-size: 0.9rem;
+    color: var(--brown);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    width: 100%;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.Footer a {
+    color: var(--brown);
+    margin-left: 3px;
+}

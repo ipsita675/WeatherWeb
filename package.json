@@ -1,0 +1,64 @@
+{
+  "name": "weather-front",
+  "version": "0.1.0",
+  "description": "A weather app to instantly check the weather conditions of any place on earth",
+  "keywords": [
+    "weather",
+    "realtime weather",
+    "weather forecast"
+  ],
+  "author": {
+    "name": "Ninad Sutrave",
+    "email": "ninadsutrave@gmail.com",
+    "url": "https://ninadsutrave.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninadsutrave/midday"
+  },
+  "license": "MIT",
+  "private": true,
+  "proxy": "https://midday.vercel.app/",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "algoliasearch": "^4.13.1",
+    "axios": "^0.26.1",
+    "emailjs-com": "^3.2.0",
+    "places.js": "^1.19.0",
+    "react": "^17.0.2",
+    "react-algolia-places": "^0.1.2",
+    "react-dom": "^17.0.2",
+    "react-instantsearch-dom": "^6.28.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "react-svg": "^15.1.0",
+    "save": "^2.5.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
