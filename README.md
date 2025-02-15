@@ -1,34 +1,25 @@
-# MidDay Weather Application
+# Midday 🌤️
 
 ## Description
 
-As the name suggests, it is any easy to use weather web application, that can be used to fetch the real time weather information of any place on earth.
-
-Get the following information of the place you search:
-✓ Time
-
-✓ Date
-
-✓ Temperature
-
-✓ Feels Like Temperature
-
-✓ Wind Speed
-
-✓ Humidity
-
-✓ Precipitation
+Midday is a sleek and easy-to-use weather web app that provides real-time weather updates for any location on Earth.
+Get the following information of the place you search:<br>
+✔ Current Time & Date 📅<br>
+✔ Temperature & Feels Like 🌡️<br>
+✔ Wind Speed 💨<br>
+✔ Humidity Levels 💧<br>
+✔ Precipitation Data ☔<br>
 
 ## Preview
 
 ![Demonstration](./src/assets/demo.gif)
+### How to Use
+1️⃣ Enter any city or location.<br>
+2️⃣ Get instant weather updates.<br>
+3️⃣ Plan your day accordingly!<br>
 
 ## Try it out?
-
-https://midday.netlify.app
+https://middayy.netlify.app/
 
 Make sure to drop me a comment when you do! :)
 
-## License
-
-MIT © Ninad Sutrave
