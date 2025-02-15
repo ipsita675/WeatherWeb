@@ -4,7 +4,7 @@ import './Footer.css'
 const Navbar = () => {
   return (
     <div className="Footer">
-        Ipsita Pandey
+        <a>Ipsita Pandey</a>
     </div>
   )
 }
