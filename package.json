@@ -8,17 +8,13 @@
     "weather forecast"
   ],
   "author": {
-    "name": "Ninad Sutrave",
-    "email": "ninadsutrave@gmail.com",
-    "url": "https://ninadsutrave.in"
+    "name": "Ipsita Pandey",
+    "email": "msipsitapandey@gmail.com",
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ninadsutrave/midday"
+    "url": "https://github.com/ipsita675/WeatherWeb"
   },
-  "license": "MIT",
-  "private": true,
-  "proxy": "https://midday.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
