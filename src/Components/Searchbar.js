@@ -1,5 +1,4 @@
-import Place from 'react-algolia-places'
-import React, { useState, useEffect } from 'react'
+
 import axios from 'axios'
 import setIcon from '../utils/icons'
 import './Searchbar.css'
