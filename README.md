@@ -16,7 +16,7 @@ Get the following information of the place you search:<br>
 3️⃣ Plan your day accordingly!<br>
 
 ## Try it out?
-https://middayy.netlify.app/
+https://midday.netlify.app/
 
 Make sure to drop me a comment when you do! :)
 
